@@ -1,7 +1,7 @@
 # Readme
 Hi, I'm Ahmed 👋
 
-🎓 Student and aspiring Cybersecurity professional from Egypt. 
+🎓 Student and aspiring Cybersecurity professional from Egypt.
 🔐 Currently learning Cybersecurity and building my skills step by step.
 💻 Exploring Python programming and ethical hacking concepts.
 ♟️ Chess enthusiast aiming to improve every day.
